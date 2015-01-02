@@ -1,0 +1,23 @@
+V:\Local Projects\SpotifyLyrics\SpotifyLyrics\bin\Debug\SpotifyLyrics.exe.config
+V:\Local Projects\SpotifyLyrics\SpotifyLyrics\bin\Debug\SpotifyLyrics.exe
+V:\Local Projects\SpotifyLyrics\SpotifyLyrics\bin\Debug\SpotifyLyrics.pdb
+V:\Local Projects\SpotifyLyrics\SpotifyLyrics\bin\Debug\Newtonsoft.Json.dll
+V:\Local Projects\SpotifyLyrics\SpotifyLyrics\obj\Debug\MainWindow.baml
+V:\Local Projects\SpotifyLyrics\SpotifyLyrics\obj\Debug\MainWindow.g.cs
+V:\Local Projects\SpotifyLyrics\SpotifyLyrics\obj\Debug\App.g.cs
+V:\Local Projects\SpotifyLyrics\SpotifyLyrics\obj\Debug\SpotifyLyrics_MarkupCompile.cache
+V:\Local Projects\SpotifyLyrics\SpotifyLyrics\obj\Debug\SpotifyLyrics.g.resources
+V:\Local Projects\SpotifyLyrics\SpotifyLyrics\obj\Debug\SpotifyLyrics.Properties.Resources.resources
+V:\Local Projects\SpotifyLyrics\SpotifyLyrics\obj\Debug\SpotifyLyrics.csproj.GenerateResource.Cache
+V:\Local Projects\SpotifyLyrics\SpotifyLyrics\obj\Debug\SpotifyLyrics.exe
+V:\Local Projects\SpotifyLyrics\SpotifyLyrics\obj\Debug\SpotifyLyrics.pdb
+V:\Local Projects\SpotifyLyrics\SpotifyLyrics\obj\Debug\SpotifyLyrics.csprojResolveAssemblyReference.cache
+V:\Local Projects\SpotifyLyrics\SpotifyLyrics\obj\Debug\GeneratedInternalTypeHelper.g.cs
+V:\Local Projects\SpotifyLyrics\SpotifyLyrics\obj\Debug\SpotifyLyrics_MarkupCompile.lref
+V:\Local Projects\SpotifyLyrics\SpotifyLyrics\bin\Debug\MahApps.Metro.dll
+V:\Local Projects\SpotifyLyrics\SpotifyLyrics\bin\Debug\System.Windows.Interactivity.dll
+V:\Local Projects\SpotifyLyrics\SpotifyLyrics\bin\Debug\MahApps.Metro.xml
+V:\Local Projects\SpotifyLyrics\SpotifyLyrics\obj\Debug\App.baml
+V:\Local Projects\SpotifyLyrics - Copy\SpotifyLyrics\bin\Debug\SpotifyLyrics.exe.config
+V:\Local Projects\SpotifyLyrics - Copy\SpotifyLyrics\obj\Debug\SpotifyLyrics.exe
+V:\Local Projects\SpotifyLyrics - Copy\SpotifyLyrics\obj\Debug\SpotifyLyrics.pdb
